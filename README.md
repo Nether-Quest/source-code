@@ -1,3 +1,3 @@
-# Nether Quest v2.0
+# Nether Quest
 
 Fully built with HTML, CSS and Javascript
