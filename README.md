@@ -1,2 +1,3 @@
-# source-code
-Source code for Nether Quest v2.0.0 onwards.
+# Nether Quest v2.0
+
+Fully built with HTML, CSS and Javascript
