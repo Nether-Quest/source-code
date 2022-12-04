@@ -2,7 +2,7 @@ name: Build/release
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '36 * * * *'
 jobs:
   release:
     runs-on: ${{ matrix.os }}
